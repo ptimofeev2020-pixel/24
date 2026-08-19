@@ -1,0 +1,54 @@
+[
+  {
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+      "name": "Удобный сервис рассылок",
+      "description": "Неограниченная лицензия, поддержка, установка на сервер",
+      "image": "",
+      "category": 1,
+      "price": 140,
+      "created_at": "2023-01-01T10:00:00Z",
+      "updated_at": "2023-01-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 2,
+    "fields": {
+      "name": "Бот для приёма заказов",
+      "description": "Телеграм бот с корзиной и оплатой",
+      "image": "",
+      "category": 2,
+      "price": 90,
+      "created_at": "2023-02-01T10:00:00Z",
+      "updated_at": "2023-02-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 3,
+    "fields": {
+      "name": "Парсер сайтов",
+      "description": "Утилита для сбора данных с веб-страниц",
+      "image": "",
+      "category": 3,
+      "price": 60,
+      "created_at": "2023-03-01T10:00:00Z",
+      "updated_at": "2023-03-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 4,
+    "fields": {
+      "name": "Рассылка в один клик",
+      "description": "Простой инструмент массовой отправки писем",
+      "image": "",
+      "category": 1,
+      "price": 120,
+      "created_at": "2023-04-01T10:00:00Z",
+      "updated_at": "2023-04-01T10:00:00Z"
+    }
+  }
+]
