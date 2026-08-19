@@ -51,3 +51,5 @@ python manage.py runserver
 - `/products/create/` — добавление нового товара
 - `/contacts/` — страница контактов
 - `/admin/` — административная панель
+"" 
+"* Pull Request ��� �஢�ન ����譥�� ������� 24" 
